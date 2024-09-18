@@ -36,7 +36,3 @@
 </div>
   
 ----
-  
-## 📈 Gráfico de atividade
-  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=andrelucasv&custom_title=Gráfico%20de%20atividade&hide_border=true&theme=xcode)
